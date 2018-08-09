@@ -1,0 +1,30 @@
+.article-img{
+	//max-height: 100px;
+	max-height: 100%;
+}
+.article-btn {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+/* Hide TinyMCE notification */
+.mce-notification-inner {
+	display: none !important;
+}
+
+.card .card-header {
+	padding-top: 0;
+}
+.card .card-body {
+	padding-top: 0;
+}
+.no-margin {
+	margin:0;
+}
+.form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #fff;
+    opacity: 1; /* Firefox */
+}
+.form-control i{
+	 color:#fff;
+}
